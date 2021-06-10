@@ -1,0 +1,55 @@
+header{
+	background-color: #3a3086;
+}
+
+
+h1{
+
+	text-align: center;
+	letter-spacing: 12px;
+	color:#3a3086;
+	font-family: monospace;
+}
+h3{
+	
+	text-align: center;
+	letter-spacing: 4px;
+	color:#3a3086;
+	font-family: monospace;
+	font-weight: bolder;
+}
+h5{
+	font-family: monospace;
+	font-weight: bold;
+	color: #3a3086;
+
+}
+p{
+	font-family: monospace;
+	font-weight: bold;
+}
+ul{
+	font-family: monospace;
+	font-weight: bold;
+}
+
+td, th {
+  
+  text-align: left;
+  padding: 10px;
+  font-family: monospace;
+  color: #ffc107;
+  font-weight:bolder;
+  font-size: 14px;
+}
+h4{
+	
+	text-align: center;
+	letter-spacing: 4px;
+	color:#3a3086;
+	font-family: monospace;
+	font-weight: bolder;
+}
+.navbar{
+	background-color:#3a3086 !important;
+}
